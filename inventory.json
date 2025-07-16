@@ -1,0 +1,4 @@
+[
+  {"name": "Gloves", "location": "Warehouse", "quantity": 100, "par_level": 50},
+  {"name": "Masks", "location": "2nd Floor", "quantity": 200, "par_level": 100}
+]
