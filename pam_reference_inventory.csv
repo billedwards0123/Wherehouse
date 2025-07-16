@@ -1,0 +1,178 @@
+Location,Item,Category,Vendor,Vendor_Item_Number,Par_Min,Par_Max,Order_Unit,Quantity_Per_Unit,Unit_Cost,Cost_Each
+1.0,BRA SIZE 32,Clothing,Amazon,,4,8,pk,4.0,18.0,4.5
+1.0,BRA SIZE 36,Clothing,Amazon,,4,8,pk,4.0,18.0,4.5
+1.0,BRA SIZE 38,Clothing,Amazon,,4,8,pk,4.0,18.0,4.5
+1.0,BRA SIZE 40,Clothing,Amazon,,1,2,pk,4.0,18.0,4.5
+1.0,BRA SIZE 42,Clothing,Amazon,,1,2,pk,3.0,18.0,4.5
+,WOMEN'S UNDERWARE SZ 10,Clothing,Amazon,,2,4,pk,12.0,24.0,2.0
+,WOMEN'S UNDERWARE SZ 5,Clothing,Amazon,,2,4,pk,12.0,24.0,2.0
+,WOMEN'S UNDERWARE SZ 6,Clothing,Amazon,,2,4,pk,12.0,24.0,2.0
+,WOMEN'S UNDERWARE SZ 7,Clothing,Amazon,,2,4,pk,12.0,24.0,2.0
+,WOMEN'S UNDERWARE SZ 8,Clothing,Amazon,,2,4,pk,12.0,24.0,2.0
+,WOMEN'S UNDERWARE SZ 9,Clothing,Amazon,,2,4,pk,12.0,24.0,2.0
+,SCRUB PANTS 2XL,Clothing,Medline,6784393,4,8,ea,1.0,8.83,8.83
+,SCRUB TOPS 2XL,Clothing,Medline,6788353,4,8,ea,1.0,9.25,9.25
+,SCRUB TOPS LARGE,Clothing,Medline,3390604,10,20,ea,1.0,8.6,8.6
+,SCRUB TOPS MEDIUM,Clothing,Medline,3392328,10,20,ea,1.0,8.6,8.6
+,SCRUB TOPS SMALL,Clothing,Medline,3390601,10,20,ea,1.0,8.6,8.6
+,SCRUB TOPS XL,Clothing,Medline,6781600,10,20,ea,1.0,8.6,8.6
+,SCRUB PANTS LARGE,Clothing,Medline,3392665,5,10,ea,1.0,7.54,7.54
+,SCRUB PANTS MEDIUM,Clothing,Medline,3392327,5,10,ea,1.0,6.6,6.6
+,SCRUB PANTS SMALL,Clothing,Medline,3392326,5,10,ea,1.0,6.6,6.6
+,SCRUB PANTS XL,Clothing,Medline,3392664,8,16,ea,1.0,6.6,6.6
+,TERRY TREAD - MED,Clothing,Henry Schein,1530607,5,10,bx,48.0,32.65,0.68
+,LABEL - NAME ALERT,Flags,PDC Healthcare,MFFYR06,2,4,bx,1.0,18.77,18.77
+,LG FLAG - BLACK,Flags,UAL,ULUA120,7,14,pk,1.0,8.59,8.59
+,LG FLAG - DK BLUE,Flags,UAL,ULUA109,13,26,pk,1.0,8.59,8.59
+,LG FLAG - DK GREEN,Flags,UAL,UQ002,6,12,pk,1.0,8.59,8.59
+,LG FLAG - GOLD,Flags,UAL,ULUA101,5,10,pk,1.0,8.59,8.59
+,LG FLAG - GRAY,Flags,UAL,ULUA106,13,26,pk,1.0,8.59,8.59
+,LG FLAG - LIME,Flags,UAL,UA123,7,14,pk,1.0,8.59,8.59
+,LG FLAG - LT ORANGE,Flags,UAL,UA108,0,0,pk,1.0,8.59,8.59
+,LG FLAG - ORANGE,Flags,UAL,UA107,10,20,pk,1.0,8.59,8.59
+,LG FLAG - RED,Flags,UAL,UQ004,10,20,pk,1.0,8.59,8.59
+,LG FLAG - TURQUOISE,Flags,UAL,UA111,10,20,pk,1.0,8.59,8.59
+,SM FLAG - GOLD/CLINICAL,Flags,UAL,ULUJ001,5,10,pk,1.0,8.59,8.59
+,SM FLAG - GREEN STRIPE/AT,Flags,UAL,UJ202,5,10,pk,1.0,8.59,8.59
+,SM FLAG - LAVENDAR STRIPE/NURSING,Flags,UAL,ULUJ215,10,20,pk,1.0,8.59,8.59
+,SM FLAG - RED STRIPE/MHS,Flags,UAL,ULUJ204,5,10,pk,1.0,8.59,8.59
+,SM FLAG - TURQUOISE/INTAKE,Flags,UAL,ULUJ010,5,10,pk,1.0,8.59,8.59
+,ROOM LABEL - ALLERGIC TO,Flags,PDC Healthcare,MFWHR09,2,4,bx,1.0,22.84,22.84
+,ROOM LABEL - GOLD (500) DR. ALCORN,Flags,PDC Healthcare,59708052,1,2,bx,1.0,12.9,12.9
+,ROOM LABEL - GREY (500) DR. NEUBERGER,Flags,PDC Healthcare,59704847,2,4,bx,1.0,12.9,12.9
+,ROOM LABEL - LAVENDER (500) DR. ABRAMS,Flags,PDC Healthcare,59708062,4,8,bx,1.0,12.9,12.9
+,ROOM LABEL - ORANGE (500) DR. RODRIGUEZ,Flags,PDC Healthcare,59704852,0,0,bx,1.0,12.9,12.9
+,ROOM LABEL - RED (500) DR. DUKOFF,Flags,PDC Healthcare,59704802,5,10,bx,1.0,12.9,12.9
+,ROOM LABEL - SALMON (500) DR. GURIS,Flags,PDC Healthcare,59704849,1,2,bx,1.0,12.9,12.9
+,ROOM LABEL - TURQUOISE (500) DR. MARDONAS,Flags,PDC Healthcare,59708049,2,4,bx,1.0,12.9,12.9
+,ROOM LABEL - VIOLET (500) DR. BAISI,Flags,PDC Healthcare,59705774,4,8,bx,1.0,12.9,12.9
+,ROOM LABEL - WHITE (500),Flags,PDC Healthcare,59704842,3,6,pk,1.0,12.9,12.9
+2.0,DOVE - BODY WASH,Hygiene,Network/WCP,68739022,1,2,cs,3.0,89.48,36.66
+2.0,DOVE - CONDITIONER,Hygiene,Network/WCP,68739028,1,2,cs,3.0,93.82,36.66
+2.0,DOVE - SHAMPOO,Hygiene,Network/WCP,68739024,1,2,cs,3.0,89.48,36.66
+,KLEENEX,Hygiene,Network/WCP,KC21606,1,3,cs,30.0,98.54,3.28
+,ZIPLOCK BAGS - GALLON SZ,Hygiene,Staples,809761,4,8,bx,1.0,4.83,4.83
+,ZIPLOCK BAGS - QUART SZ,Hygiene,Staples,809760,4,8,bx,1.0,4.92,4.92
+,BODY LOTION,Hygiene,Staples,764698,6,12,btl,1.0,8.34,8.34
+,LIP BALM,Hygiene,Henry Schein,3671137,0,0,bx,1.0,34.44,34.44
+,DRYER SHEETS,Hygiene,Staples,498294,8,16,bx,1.0,8.57,8.57
+,FREBEZE,Hygiene,Staples,97799,12,24,pk,2.0,5.85,2.93
+,HYGIENE BIN - 6 QT,Hygiene,ULINE,S15402,2,4,pk,12.0,37.0,3.08
+,DEODORANT - OLD SPICE,Hygiene,Network/WCP,AH86573,16,32,cs,24.0,43.05,1.79
+,DEODORANT - SECRET,Hygiene,Network/WCP,AH1037572,2,4,bx,24.0,37.03,1.54
+,SANITARY PADS,Hygiene,Henry Schein,8310104,1,2,bx,288.0,31.05,0.1
+,TAMPONS,Hygiene,Henry Schein,9904431,4,8,bx,500.0,53.99,0.11
+,EXAM SHORTS,Hygiene,Henry Schein,5702757,1,1,bx,1.0,18.46,18.46
+,HAIR BRUSH,Hygiene,Henry Schein,7386110,2,4,cs,1.0,41.64,41.64
+,HAIR COMBS,Hygiene,Henry Schein,1141985,2,4,bx,1.0,2.77,2.77
+,TOOTHBRUSH,Hygiene,Henry Schein,3250334,6,12,bx,12.0,15.99,1.33
+,TOOTHPASTE,Hygiene,Henry Schein,1097645,2,4,bx,72.0,23.99,0.33
+,TOOTHBRUSH CAP,Hygiene,Henry Schein,,2,4,bx,144.0,19.94,0.14
+,Q-TIPS,Hygiene,Henry Schein,1235388,2,4,pk,1.0,4.06,4.06
+,2oz PAPER CUP,Nursing,Network/WCP,SL200,1,2,cs,1.0,102.28,102.28
+,1oz PAPER CUP,Nursing,Medline,,2,4,cs,1.0,57.86,
+,ADULT NASAL CANNULA,Nursing,Henry Schein,7020469,1,1,bx,1.0,107.25,107.25
+,ADULT OXYGEN MASK,Nursing,Henry Schein,1190416,1,1,bx,50.0,199.5,3.99
+,PEDIATRIC OXYGEN MASK,Nursing,Henry Schein,1413553,1,1,ea,50.0,174.5,1.29
+,SPIROMETER,Nursing,Henry Schein,8401080,1,1,ea,12.0,95.99,95.99
+,AIR LIFE BAG,Nursing,Henry Schein,2K8036,1,1,ea,6.0,202.29,202.29
+,BABY WIPES,Nursing,Henry Schein,1381337,1,1,bx,8.0,25.92,3.24
+,YOUTH PULL-UP - SM/MD,Nursing,McKesson,70073A,1,2,bx,1.0,31.3,31.3
+,YOUTH PULL-UP - LG/XL,Nursing,McKesson,70074A,1,2,bx,1.0,31.3,31.3
+,DEPEND UNISEX - SM/MD,Nursing,Henry Schein,1358890,1,2,pk,1.0,17.71,17.71
+,DEPEND UNISEX - LARGE,Nursing,Henry Schein,1358891,1,2,pk,1.0,17.71,17.71
+,DEPEND MALE - XLG,Nursing,McKesson,1090313,1,2,pk,1.0,38.55,38.55
+,DEPEND FEMALE - XLG,Nursing,McKesson,1090310,1,2,pk,1.0,36.02,36.02
+,HANES BOXER - SM/XLG,Nursing,Amazon,,4,8,pk,1.0,23.98,23.98
+,SANI-CLOTH WIPES,Nursing,Medline,NPKQ55172,2,4,cs,12.0,71.63,5.96
+,BinaxNOW COVID-19 TEST KIT,Nursing,Henry Schein,1418313,1,1,cs,1.0,251.89,251.89
+,HAND SANITER - DESK SIZE,Nursing,Staples,844713,2,4,ea,1.0,3.04,3.04
+,HAND SANITIZER - ALCOHOL FREE,Nursing,School Specialty,2012752,24,48,ea,8.0,19.52,2.44
+,14 Panel Drug Screen Test Kit,Nursing,McKesson,1101528,2,4,bx,1.0,92.27,92.27
+,PREGNANCY TEST,Nursing,Henry Schein,1317767,0,0,bx,1.0,18.2,18.2
+,QUICKVUE STREP A TEST KIT,Nursing,Henry Schein,2274207,4,8,bx,1.0,84.03,84.03
+,QUICKVUE INFLUENZA A+B TEST,Nursing,Henry Schein,2275611,1,1,bx,1.0,345.94,345.94
+,HOT PACKS,Nursing,Henry Schein,6780650,2,4,bx,24.0,13.45,0.56
+,COLD PACKS,Nursing,Henry Schein,1131780,4,8,bx,50.0,25.46,0.51
+,LRG GLOVES,Nursing,Network/WCP,SW001743,2,4,cs,10.0,58.28,5.83
+,MED GLOVES,Nursing,Network/WCP,SW001729,2,4,cs,10.0,57.82,5.78
+,SM GLOVES,Nursing,Network/WCP,SW001705,2,4,cs,10.0,57.32,5.73
+,XL GLOVES,Nursing,Network/WCP,SW001767,2,4,cs,10.0,58.45,5.85
+,COTTON BALLS,Nursing,Henry Schein,1152719,1,2,bx,8.0,22.78,2.85
+,MEDICINE CUPS - PLASTIC,Nursing,Henry Schein,1386049,1,2,cs,50.0,39.5,0.79
+,V.P. 3cc 22gx1,Nursing,Henry Schein,7019859,1,2,bx,1.0,28.97,28.97
+,V.P. 1cc 27gx1/2,Nursing,Henry Schein,7011396,1,2,bx,1.0,34.34,34.34
+,V.P. 1cc 29gx1/2,Nursing,Henry Schein,7019535,1,2,bx,1.0,34.34,34.34
+,BIO CLEAN UP KIT (EZ-CLEANS),Nursing,Henry Schein,4224505,4,8,bx,1.0,9.42,9.42
+,LANCET T-PRO PLUS,Nursing,Henry Schein,8913120,0,0,bx,1.0,36.48,36.48
+,QUINTET GLUCOSE Control Solution,Nursing,McKesson,,10,20,bx,1.0,9.6,9.6
+,QUINTET GLUCOSE Meter,Nursing,McKesson,,6,12,bx,1.0,0.01,0.01
+,QUINTET GLUCOSE Test Strip,Nursing,McKesson,,8,16,bx,1.0,10.7,10.7
+,EKG ELECTRODES,Nursing,Henry Schein,6329516,0,0,pk,10.0,82.9,8.29
+,EKG PAPER,Nursing,Henry Schein,4330002,0,0,cs,16.0,308.64,19.29
+,PILL CUTTERS,Nursing,Henry Schein,6353108,6,12,ea,1.0,4.32,4.32
+,V.P. 3cc 23gx1,Nursing,Henry Schein,7016930,2,4,bx,1.0,28.97,28.97
+,THERMO PROVE CVRS,Nursing,Henry Schein,5660460,1,2,bx,1.0,14.49,14.49
+,HAT URINAL,Nursing,Henry Schein,1125810,1,1,bx,25.0,9.08,0.36
+,BREATHALYZER,Nursing,Amazon,Model - S80,1,1,ea,1.0,129.99,129.99
+,BREATHALYZER MOUTHPIECE,Nursing,Amazon,Model - S80,1,1,bx,1.0,44.95,44.95
+,FILTER STRAW,Nursing,Henry Schein,5076773,1,2,bx,100.0,249.0,2.49
+,INTERMITTENT INJECTION CAP,Nursing,Henry Schein,1192101,1,2,bx,100.0,49.73,0.5
+,TEGADERM 3 1/2 X 4,Nursing,Henry Schein,7772234,1,2,bx,1.0,18.66,18.66
+,TEGADERM 6X6,Nursing,McKesson,2722407,2,4,bx,1.0,42.98,42.98
+,Band Aids (Latex Free),Nursing,Henry Schein,2880253,3,6,cs,12.0,41.97,3.5
+,GAUZE STERILE 2X2,Nursing,Henry Schein,8909789,1,2,cs,30.0,35.4,1.18
+,GAUZE STERILE 4X4,Nursing,Henry Schein,8906456,1,2,cs,24.0,49.2,2.05
+,"MICROPORE TAPE 1""",Nursing,Henry Schein,7776080,0,0,bx,1.0,3.46,3.46
+,"MICROPORE TAPE 2""",Nursing,Henry Schein,7779382,0,0,bx,1.0,3.46,3.46
+,NAIL CLIPPERS,Nursing,Henry Schein,8866001,8,16,bx,1.0,3.29,3.29
+,RID LICE KIT,Nursing,Henry Schein,1369432,0,0,bx,1.0,24.33,24.33
+,COTTON TIPPED APPLICATOR,Nursing,Henry Schein,1009249,0,0,bx,1.0,1.77,1.77
+,HEMOCCULT SENSA TEST,Nursing,Henry Schein,2543896,1,2,bx,1.0,66.79,66.79
+,HYDROGEN PEROXIDE,Nursing,Henry Schein,1127069,12,24,btl,1.0,0.62,0.62
+,IODINE,Nursing,Henry Schein,6906606,6,12,btl,1.0,3.32,3.32
+,RUBBING ALCOHOL,Nursing,Henry Schein,1127067,12,24,btl,2.0,1.73,0.87
+,STERI STRIP 1/4 X 1 1/2,Nursing,Henry Schein,7770843,2,4,bx,1.0,26.46,26.46
+,STERI STRIP 1/8 X 3,Nursing,Henry Schein,7772051,0,0,bx,1.0,26.46,26.46
+,TONGUE BLADES,Nursing,Henry Schein,5820596,6,12,bx,1.0,2.66,2.66
+,TRIPLE ANTIBIOTIC ,Nursing,Henry Schein,1411277,5,10,bx,1.0,6.9,6.9
+,Alcohol Prep Pads,Nursing,Henry Schein,1191397,0,0,cs,10.0,41.3,4.13
+,EXAM TABLE PAPER,Nursing,Henry Schein,1000177,1,2,cs,12.0,34.51,2.88
+,COMPOSITION NOTEBOOKS,Office Supplies,Staples,126464,25,50,ea,1.0,3.69,3.69
+,BLUE PAPER,Office Supplies,Staples,490947,6,12,ream,10.22,4.84,0.47
+,COSMIC ORANGE PAPER,Office Supplies,Staples,22651,6,12,ream,1.0,9.54,9.54
+,GREY PAPER,Office Supplies,Staples,678831,4,8,ream,10.22,4.84,0.47
+,NORTH STAR ENVELOPES,Office Supplies,Royal Printing,,0,0,box,1.0,,0.0
+,GOLDEN ROD PAPER,Office Supplies,Staples,490944,2,4,ream,10.22,4.84,0.47
+,GREEN PAPER,Office Supplies,Staples,490936,4,8,ream,10.22,4.84,0.47
+,YELLOW PAPER,Office Supplies,Staples,490948,2,4,ream,1.0,4.84,4.84
+,PENCILS,Office Supplies,Klondike,14070,0,0,cs,1.0,540.0,540.0
+,RUBBER BANDS,Office Supplies,Staples,112680,0,0,pk,1.0,0.5,0.5
+,MANILA FOLDERS,Office Supplies,Staples,116657,0,0,box,1.0,2.07,2.07
+,ENVELOPES 10X13,Office Supplies,Staples,381969,2,4,bx,1.0,21.88,21.88
+,ENVELOPES 9X12,Office Supplies,Staples,381970,2,4,bx,1.0,8.86,8.86
+,EXPO ERASER,Office Supplies,Staples,272153,1,2,ea,1.0,0.99,0.99
+,EXPO MARKERS - CHISEL POINT,Office Supplies,Staples,80678,7,14,pk,12.0,7.11,0.59
+,EXPO MARKERS - FINE POINT,Office Supplies,Staples,567488,4,8,pk,1.0,6.54,6.54
+,HANGING FOLDERS,Office Supplies,Staples,875411,0,0,bx,1.0,23.49,18.79
+,HIGHLIGHTERS,Office Supplies,Staples,31257,8,16,pk,4.0,5.96,1.49
+,LAMINATING - SEALF-SEAL,Office Supplies,Staples,372963,0,0,pk,1.0,45.99,45.99
+,LEGAL PADS 5X8,Office Supplies,Staples,163832,0,0,pk,24.0,2.67,0.11
+,LEGAL PADS 8X11,Office Supplies,Staples,831293,1,2,pk,12.0,26.49,2.21
+,PACKING TAPE,Office Supplies,Staples,483072,0,0,pk,6.0,15.12,2.52
+,Battery 9V,Office Supplies,Grainger,5LE24,2,4,pk,1.0,21.63,21.63
+,Battery AA,Office Supplies,Grainger,5LE23,5,10,pk,1.0,11.11,11.11
+,Battery AAA,Office Supplies,Grainger,5LE25,5,10,pk,1.0,10.83,10.83
+,Battery C,Office Supplies,Grainger,5LE22,2,4,pk,1.0,11.02,11.02
+,Battery D,Office Supplies,Grainger,5LE21,2,4,pk,1.0,15.49,15.49
+,BINDER CLIPS - LRG,Office Supplies,Staples,72100,1,2,bx,1.0,2.63,2.63
+,BINDER CLIPS - MED,Office Supplies,Staples,395200,1,2,cs,1.0,5.21,5.21
+,BINDER CLIPS - MINI,Office Supplies,Staples,99010,1,2,cs,1.0,2.29,2.29
+,BINDER CLIPS - SMALL,Office Supplies,Staples,480114,1,2,cs,1.0,2.2,2.2
+,PAPER CLIPS - LARGE,Office Supplies,Staples,650964,10,20,bx,10.0,0.51,0.05
+,PAPER CLIPS - SMALL,Office Supplies,Staples,126474,1,2,cs,10.0,8.29,0.83
+,PENS - BLACK,Office Supplies,Staples,612884,16,32,pk,12.0,5.11,0.43
+,PENS - RED,Office Supplies,Staples,343570,0,0,pk,12.0,4.48,0.37
+,SHARPIE MARKERS - BLACK,Office Supplies,Staples,125328,8,16,pk,12.0,6.42,0.54
+,3-Hole Punch ,Office Supplies,Staples,74030,1,2,ea,1.0,16.01,16.01
+,"3-Ring Binder - 1""",Office Supplies,Staples,318428,2,4,ea,1.0,4.52,4.52
