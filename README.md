@@ -140,3 +140,23 @@ Ask Pam through the chat interface, or contact Carl directly.
 All tasks, feedback loops, and system improvements are documented and traceable.
 
 ---
+
+## Development Setup
+
+This repository includes a minimal FastAPI backend and static HTML dashboard.
+
+### Files
+- `main.py` – FastAPI application providing API routes for inventory, tasks, and chat history.
+- `index.html` – Simple dashboard interface using Bootstrap and JavaScript fetch calls.
+- `inventory.json` / `tasks.json` / `chat.json` – Mock data files persisted locally.
+
+### Running the Server
+1. Install dependencies:
+   ```bash
+   pip install fastapi uvicorn pydantic
+   ```
+2. Start the server:
+   ```bash
+   uvicorn main:app --reload
+   ```
+3. Open `index.html` in a browser and interact with the dashboard.
