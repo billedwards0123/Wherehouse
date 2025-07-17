@@ -1,4 +1,1064 @@
 [
-  {"name": "Gloves", "location": "Warehouse", "quantity": 100, "par_level": 50},
-  {"name": "Masks", "location": "2nd Floor", "quantity": 200, "par_level": 100}
+  {
+    "name": "BRA SIZE 32",
+    "location": "1.0",
+    "quantity": 4,
+    "par_level": 8
+  },
+  {
+    "name": "BRA SIZE 36",
+    "location": "1.0",
+    "quantity": 4,
+    "par_level": 8
+  },
+  {
+    "name": "BRA SIZE 38",
+    "location": "1.0",
+    "quantity": 4,
+    "par_level": 8
+  },
+  {
+    "name": "BRA SIZE 40",
+    "location": "1.0",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "BRA SIZE 42",
+    "location": "1.0",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "WOMEN'S UNDERWARE SZ 10",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "WOMEN'S UNDERWARE SZ 5",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "WOMEN'S UNDERWARE SZ 6",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "WOMEN'S UNDERWARE SZ 7",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "WOMEN'S UNDERWARE SZ 8",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "WOMEN'S UNDERWARE SZ 9",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "SCRUB PANTS 2XL",
+    "location": "N/A",
+    "quantity": 4,
+    "par_level": 8
+  },
+  {
+    "name": "SCRUB TOPS 2XL",
+    "location": "N/A",
+    "quantity": 4,
+    "par_level": 8
+  },
+  {
+    "name": "SCRUB TOPS LARGE",
+    "location": "N/A",
+    "quantity": 10,
+    "par_level": 20
+  },
+  {
+    "name": "SCRUB TOPS MEDIUM",
+    "location": "N/A",
+    "quantity": 10,
+    "par_level": 20
+  },
+  {
+    "name": "SCRUB TOPS SMALL",
+    "location": "N/A",
+    "quantity": 10,
+    "par_level": 20
+  },
+  {
+    "name": "SCRUB TOPS XL",
+    "location": "N/A",
+    "quantity": 10,
+    "par_level": 20
+  },
+  {
+    "name": "SCRUB PANTS LARGE",
+    "location": "N/A",
+    "quantity": 5,
+    "par_level": 10
+  },
+  {
+    "name": "SCRUB PANTS MEDIUM",
+    "location": "N/A",
+    "quantity": 5,
+    "par_level": 10
+  },
+  {
+    "name": "SCRUB PANTS SMALL",
+    "location": "N/A",
+    "quantity": 5,
+    "par_level": 10
+  },
+  {
+    "name": "SCRUB PANTS XL",
+    "location": "N/A",
+    "quantity": 8,
+    "par_level": 16
+  },
+  {
+    "name": "TERRY TREAD - MED",
+    "location": "N/A",
+    "quantity": 5,
+    "par_level": 10
+  },
+  {
+    "name": "LABEL - NAME ALERT",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "LG FLAG - BLACK",
+    "location": "N/A",
+    "quantity": 7,
+    "par_level": 14
+  },
+  {
+    "name": "LG FLAG - DK BLUE",
+    "location": "N/A",
+    "quantity": 13,
+    "par_level": 26
+  },
+  {
+    "name": "LG FLAG - DK GREEN",
+    "location": "N/A",
+    "quantity": 6,
+    "par_level": 12
+  },
+  {
+    "name": "LG FLAG - GOLD",
+    "location": "N/A",
+    "quantity": 5,
+    "par_level": 10
+  },
+  {
+    "name": "LG FLAG - GRAY",
+    "location": "N/A",
+    "quantity": 13,
+    "par_level": 26
+  },
+  {
+    "name": "LG FLAG - LIME",
+    "location": "N/A",
+    "quantity": 7,
+    "par_level": 14
+  },
+  {
+    "name": "LG FLAG - LT ORANGE",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "LG FLAG - ORANGE",
+    "location": "N/A",
+    "quantity": 10,
+    "par_level": 20
+  },
+  {
+    "name": "LG FLAG - RED",
+    "location": "N/A",
+    "quantity": 10,
+    "par_level": 20
+  },
+  {
+    "name": "LG FLAG - TURQUOISE",
+    "location": "N/A",
+    "quantity": 10,
+    "par_level": 20
+  },
+  {
+    "name": "SM FLAG - GOLD/CLINICAL",
+    "location": "N/A",
+    "quantity": 5,
+    "par_level": 10
+  },
+  {
+    "name": "SM FLAG - GREEN STRIPE/AT",
+    "location": "N/A",
+    "quantity": 5,
+    "par_level": 10
+  },
+  {
+    "name": "SM FLAG - LAVENDAR STRIPE/NURSING",
+    "location": "N/A",
+    "quantity": 10,
+    "par_level": 20
+  },
+  {
+    "name": "SM FLAG - RED STRIPE/MHS",
+    "location": "N/A",
+    "quantity": 5,
+    "par_level": 10
+  },
+  {
+    "name": "SM FLAG - TURQUOISE/INTAKE",
+    "location": "N/A",
+    "quantity": 5,
+    "par_level": 10
+  },
+  {
+    "name": "ROOM LABEL - ALLERGIC TO",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "ROOM LABEL - GOLD (500) DR. ALCORN",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "ROOM LABEL - GREY (500) DR. NEUBERGER",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "ROOM LABEL - LAVENDER (500) DR. ABRAMS",
+    "location": "N/A",
+    "quantity": 4,
+    "par_level": 8
+  },
+  {
+    "name": "ROOM LABEL - ORANGE (500) DR. RODRIGUEZ",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "ROOM LABEL - RED (500) DR. DUKOFF",
+    "location": "N/A",
+    "quantity": 5,
+    "par_level": 10
+  },
+  {
+    "name": "ROOM LABEL - SALMON (500) DR. GURIS",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "ROOM LABEL - TURQUOISE (500) DR. MARDONAS",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "ROOM LABEL - VIOLET (500) DR. BAISI",
+    "location": "N/A",
+    "quantity": 4,
+    "par_level": 8
+  },
+  {
+    "name": "ROOM LABEL - WHITE (500)",
+    "location": "N/A",
+    "quantity": 3,
+    "par_level": 6
+  },
+  {
+    "name": "DOVE - BODY WASH",
+    "location": "2.0",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "DOVE - CONDITIONER",
+    "location": "2.0",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "DOVE - SHAMPOO",
+    "location": "2.0",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "KLEENEX",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 3
+  },
+  {
+    "name": "ZIPLOCK BAGS - GALLON SZ",
+    "location": "N/A",
+    "quantity": 4,
+    "par_level": 8
+  },
+  {
+    "name": "ZIPLOCK BAGS - QUART SZ",
+    "location": "N/A",
+    "quantity": 4,
+    "par_level": 8
+  },
+  {
+    "name": "BODY LOTION",
+    "location": "N/A",
+    "quantity": 6,
+    "par_level": 12
+  },
+  {
+    "name": "LIP BALM",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "DRYER SHEETS",
+    "location": "N/A",
+    "quantity": 8,
+    "par_level": 16
+  },
+  {
+    "name": "FREBEZE",
+    "location": "N/A",
+    "quantity": 12,
+    "par_level": 24
+  },
+  {
+    "name": "HYGIENE BIN - 6 QT",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "DEODORANT - OLD SPICE",
+    "location": "N/A",
+    "quantity": 16,
+    "par_level": 32
+  },
+  {
+    "name": "DEODORANT - SECRET",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "SANITARY PADS",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "TAMPONS",
+    "location": "N/A",
+    "quantity": 4,
+    "par_level": 8
+  },
+  {
+    "name": "EXAM SHORTS",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 1
+  },
+  {
+    "name": "HAIR BRUSH",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "HAIR COMBS",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "TOOTHBRUSH",
+    "location": "N/A",
+    "quantity": 6,
+    "par_level": 12
+  },
+  {
+    "name": "TOOTHPASTE",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "TOOTHBRUSH CAP",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "Q-TIPS",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "2oz PAPER CUP",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "1oz PAPER CUP",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "ADULT NASAL CANNULA",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 1
+  },
+  {
+    "name": "ADULT OXYGEN MASK",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 1
+  },
+  {
+    "name": "PEDIATRIC OXYGEN MASK",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 1
+  },
+  {
+    "name": "SPIROMETER",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 1
+  },
+  {
+    "name": "AIR LIFE BAG",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 1
+  },
+  {
+    "name": "BABY WIPES",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 1
+  },
+  {
+    "name": "YOUTH PULL-UP - SM/MD",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "YOUTH PULL-UP - LG/XL",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "DEPEND UNISEX - SM/MD",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "DEPEND UNISEX - LARGE",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "DEPEND MALE - XLG",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "DEPEND FEMALE - XLG",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "HANES BOXER - SM/XLG",
+    "location": "N/A",
+    "quantity": 4,
+    "par_level": 8
+  },
+  {
+    "name": "SANI-CLOTH WIPES",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "BinaxNOW COVID-19 TEST KIT",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 1
+  },
+  {
+    "name": "HAND SANITER - DESK SIZE",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "HAND SANITIZER - ALCOHOL FREE",
+    "location": "N/A",
+    "quantity": 24,
+    "par_level": 48
+  },
+  {
+    "name": "14 Panel Drug Screen Test Kit",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "PREGNANCY TEST",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "QUICKVUE STREP A TEST KIT",
+    "location": "N/A",
+    "quantity": 4,
+    "par_level": 8
+  },
+  {
+    "name": "QUICKVUE INFLUENZA A+B TEST",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 1
+  },
+  {
+    "name": "HOT PACKS",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "COLD PACKS",
+    "location": "N/A",
+    "quantity": 4,
+    "par_level": 8
+  },
+  {
+    "name": "LRG GLOVES",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "MED GLOVES",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "SM GLOVES",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "XL GLOVES",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "COTTON BALLS",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "MEDICINE CUPS - PLASTIC",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "V.P. 3cc 22gx1",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "V.P. 1cc 27gx1/2",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "V.P. 1cc 29gx1/2",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "BIO CLEAN UP KIT (EZ-CLEANS)",
+    "location": "N/A",
+    "quantity": 4,
+    "par_level": 8
+  },
+  {
+    "name": "LANCET T-PRO PLUS",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "QUINTET GLUCOSE Control Solution",
+    "location": "N/A",
+    "quantity": 10,
+    "par_level": 20
+  },
+  {
+    "name": "QUINTET GLUCOSE Meter",
+    "location": "N/A",
+    "quantity": 6,
+    "par_level": 12
+  },
+  {
+    "name": "QUINTET GLUCOSE Test Strip",
+    "location": "N/A",
+    "quantity": 8,
+    "par_level": 16
+  },
+  {
+    "name": "EKG ELECTRODES",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "EKG PAPER",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "PILL CUTTERS",
+    "location": "N/A",
+    "quantity": 6,
+    "par_level": 12
+  },
+  {
+    "name": "V.P. 3cc 23gx1",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "THERMO PROVE CVRS",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "HAT URINAL",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 1
+  },
+  {
+    "name": "BREATHALYZER",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 1
+  },
+  {
+    "name": "BREATHALYZER MOUTHPIECE",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 1
+  },
+  {
+    "name": "FILTER STRAW",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "INTERMITTENT INJECTION CAP",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "TEGADERM 3 1/2 X 4",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "TEGADERM 6X6",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "Band Aids (Latex Free)",
+    "location": "N/A",
+    "quantity": 3,
+    "par_level": 6
+  },
+  {
+    "name": "GAUZE STERILE 2X2",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "GAUZE STERILE 4X4",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "MICROPORE TAPE 1\"",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "MICROPORE TAPE 2\"",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "NAIL CLIPPERS",
+    "location": "N/A",
+    "quantity": 8,
+    "par_level": 16
+  },
+  {
+    "name": "RID LICE KIT",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "COTTON TIPPED APPLICATOR",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "HEMOCCULT SENSA TEST",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "HYDROGEN PEROXIDE",
+    "location": "N/A",
+    "quantity": 12,
+    "par_level": 24
+  },
+  {
+    "name": "IODINE",
+    "location": "N/A",
+    "quantity": 6,
+    "par_level": 12
+  },
+  {
+    "name": "RUBBING ALCOHOL",
+    "location": "N/A",
+    "quantity": 12,
+    "par_level": 24
+  },
+  {
+    "name": "STERI STRIP 1/4 X 1 1/2",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "STERI STRIP 1/8 X 3",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "TONGUE BLADES",
+    "location": "N/A",
+    "quantity": 6,
+    "par_level": 12
+  },
+  {
+    "name": "TRIPLE ANTIBIOTIC",
+    "location": "N/A",
+    "quantity": 5,
+    "par_level": 10
+  },
+  {
+    "name": "Alcohol Prep Pads",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "EXAM TABLE PAPER",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "COMPOSITION NOTEBOOKS",
+    "location": "N/A",
+    "quantity": 25,
+    "par_level": 50
+  },
+  {
+    "name": "BLUE PAPER",
+    "location": "N/A",
+    "quantity": 6,
+    "par_level": 12
+  },
+  {
+    "name": "COSMIC ORANGE PAPER",
+    "location": "N/A",
+    "quantity": 6,
+    "par_level": 12
+  },
+  {
+    "name": "GREY PAPER",
+    "location": "N/A",
+    "quantity": 4,
+    "par_level": 8
+  },
+  {
+    "name": "NORTH STAR ENVELOPES",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "GOLDEN ROD PAPER",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "GREEN PAPER",
+    "location": "N/A",
+    "quantity": 4,
+    "par_level": 8
+  },
+  {
+    "name": "YELLOW PAPER",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "PENCILS",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "RUBBER BANDS",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "MANILA FOLDERS",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "ENVELOPES 10X13",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "ENVELOPES 9X12",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "EXPO ERASER",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "EXPO MARKERS - CHISEL POINT",
+    "location": "N/A",
+    "quantity": 7,
+    "par_level": 14
+  },
+  {
+    "name": "EXPO MARKERS - FINE POINT",
+    "location": "N/A",
+    "quantity": 4,
+    "par_level": 8
+  },
+  {
+    "name": "HANGING FOLDERS",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "HIGHLIGHTERS",
+    "location": "N/A",
+    "quantity": 8,
+    "par_level": 16
+  },
+  {
+    "name": "LAMINATING - SEALF-SEAL",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "LEGAL PADS 5X8",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "LEGAL PADS 8X11",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "PACKING TAPE",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "Battery 9V",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "Battery AA",
+    "location": "N/A",
+    "quantity": 5,
+    "par_level": 10
+  },
+  {
+    "name": "Battery AAA",
+    "location": "N/A",
+    "quantity": 5,
+    "par_level": 10
+  },
+  {
+    "name": "Battery C",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "Battery D",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  },
+  {
+    "name": "BINDER CLIPS - LRG",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "BINDER CLIPS - MED",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "BINDER CLIPS - MINI",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "BINDER CLIPS - SMALL",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "PAPER CLIPS - LARGE",
+    "location": "N/A",
+    "quantity": 10,
+    "par_level": 20
+  },
+  {
+    "name": "PAPER CLIPS - SMALL",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "PENS - BLACK",
+    "location": "N/A",
+    "quantity": 16,
+    "par_level": 32
+  },
+  {
+    "name": "PENS - RED",
+    "location": "N/A",
+    "quantity": 0,
+    "par_level": 0
+  },
+  {
+    "name": "SHARPIE MARKERS - BLACK",
+    "location": "N/A",
+    "quantity": 8,
+    "par_level": 16
+  },
+  {
+    "name": "3-Hole Punch",
+    "location": "N/A",
+    "quantity": 1,
+    "par_level": 2
+  },
+  {
+    "name": "3-Ring Binder - 1\"",
+    "location": "N/A",
+    "quantity": 2,
+    "par_level": 4
+  }
 ]
