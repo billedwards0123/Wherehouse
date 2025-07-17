@@ -160,3 +160,16 @@ This repository includes a minimal FastAPI backend and static HTML dashboard.
    uvicorn main:app --reload
    ```
 3. Open `index.html` in a browser and interact with the dashboard.
+
+### Importing CSV Sample Data
+
+The repository includes `pam_reference_inventory.csv`, a reference list of
+inventory items with PAR levels. Use the helper script `import_csv_to_json.py`
+to convert this file into the `inventory.json` format used by the dashboard:
+
+```bash
+python import_csv_to_json.py
+```
+
+This will populate `inventory.json` with all items from the CSV so they appear
+in the dashboard's inventory table when the server is running.
